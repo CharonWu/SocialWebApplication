@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Test backend" errors="0" tests="1" failures="0" time="1.012" timestamp="2022-11-15T09:53:45">
+  <testcase classname="Test backend" name="should test and past eight required API" time="1.01"></testcase>
+</testsuite>
+</testsuites>
